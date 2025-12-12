@@ -5,14 +5,12 @@
 ---
 
 ### 💻 Skills
-HTML • CSS • JavaScript • React • Next.js • TailwindCSS • TypeScript
+HTML • CSS • JavaScript • React • Next.js • TailwindCSS • TypeScript • Figma
 
 ---
 
 ### 🚀 Projects
-Portfolio Website — https://your-portfolio-link.com  
-Weather App — https://github.com/USERNAME/weather-app  
-E-commerce Website — https://github.com/USERNAME/ecommerce
+Portfolio Website — v0-portfolio-website-build-omega-six.vercel.app
 
 ---
 
