@@ -5,7 +5,7 @@
 ---
 
 ### 💻 Skills
-HTML • CSS • JavaScript • React • Next.js • TailwindCSS • TypeScript • Figma
+HTML • CSS • JavaScript • React • Next.js • TailwindCSS • TypeScript • Shopify • WordPress
 
 ---
 
